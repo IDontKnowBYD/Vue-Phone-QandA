@@ -9,6 +9,18 @@ import './config/rem'
 
 Vue.config.productionTip = false
 
+var OfflinePlugin = require('offline-plugin/runtime')
+
+OfflinePlugin.install({
+  onUpdateReady () {
+    OfflinePlugin.applyUpdate()
+  },
+  onUpdated () {
+    console.log('updated')
+    window.location.reload()
+  }
+})
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
