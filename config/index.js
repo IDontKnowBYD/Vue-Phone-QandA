@@ -55,7 +55,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../docs'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/VUE-QANDA／',
+    assetsPublicPath: '/VUE-QandA／',
 
     /**
      * Source Maps
