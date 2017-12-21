@@ -15,7 +15,7 @@
     				<ul>
     					<li  v-for="(item, index) in itemDetail[itemNum-1].topic_answer" @click="choosed(index, item.topic_answer_id)" class="item_list">
     						<span class="option_style" v-bind:class="{'has_choosed':choosedNum==index}">{{chooseType(index)}}</span>
-    						<span class="option_detail">{{item.answer_name}}</span>
+    						<span onselectstart="return false;" class="option_detail">{{item.answer_name}}</span>
     					</li>
     				</ul>
     			</div>
