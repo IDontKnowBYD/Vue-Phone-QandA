@@ -10,17 +10,9 @@ export default {
     state.answerid.push(id)
   },
 
-  // 记录做题时间
-  REMBER_TIME (state) {
-    state.timer = setInterval(() => {
-      state.allTime++
-    }, 1000)
-  },
-
   // 初始化信息
   INITIALIZE_DATA (state) {
     state.itemNum = 1
-    state.allTime = 0
     state.answerid = []
   }
 }

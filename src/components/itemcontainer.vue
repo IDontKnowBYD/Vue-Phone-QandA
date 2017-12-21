@@ -34,15 +34,14 @@ export default {
     return {
       itemId: null,
       choosedNum: null,
-      chooseId: null
+      choosedId: null
     }
   },
   props: ['fatherComponent'],
   computed: mapState([
     'itemNum',
     'level',
-    'itemDetail',
-    'timer'
+    'itemDetail'
   ]),
   methods: {
     ...mapActions([
@@ -51,7 +50,7 @@ export default {
     nextItem () {
       if (this.choosedNum !== null) {
         this.choosedNum = null
-        this.addNum(this.chooseId)
+        this.addNum(this.choosedId)
       } else {
         alert('您还没有选择答案哦')
       }
@@ -71,7 +70,6 @@ export default {
     submitAnswer () {
       if (this.choosedNum !== null) {
         this.addNum(this.choosedId)
-        clearInterval(this.timer)
         this.$router.push('score')
       } else {
         alert('您还没有选择答案哦')
