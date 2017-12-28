@@ -1,20 +1,20 @@
 CACHE MANIFEST
-#ver:2017-12-21 09:03:18
+#ver:2017-12-28 09:26:52
 #plugin:4.8.5
 
 CACHE:
-/Vue-QandA/static/img/4-1.jpg
-/Vue-QandA/static/img/4-2.png
-/Vue-QandA/static/img/1-2.png
-/Vue-QandA/static/img/1-1.jpg
-/Vue-QandA/static/img/joker.jpg
-/Vue-QandA/static/js/0.478d3d5348b22cde944d.js
-/Vue-QandA/static/js/1.151ee8ac2a7c1c58e432.js
-/Vue-QandA/static/js/2.4bc0f80c8c2842610e24.js
-/Vue-QandA/static/js/vendor.635579bb0131c7429c27.js
-/Vue-QandA/static/js/app.320ee88a2485b20d6f6d.js
-/Vue-QandA/static/js/manifest.2e6291573b33c26ab935.js
-/Vue-QandA/static/css/app.09a16095ff96c3e9c436638f8c505fa8.css
+/Vue-Phone-QandA/static/img/4-1.jpg
+/Vue-Phone-QandA/static/img/4-2.png
+/Vue-Phone-QandA/static/img/1-2.png
+/Vue-Phone-QandA/static/img/1-1.jpg
+/Vue-Phone-QandA/static/img/joker.jpg
+/Vue-Phone-QandA/static/js/0.478d3d5348b22cde944d.js
+/Vue-Phone-QandA/static/js/1.151ee8ac2a7c1c58e432.js
+/Vue-Phone-QandA/static/js/2.4bc0f80c8c2842610e24.js
+/Vue-Phone-QandA/static/js/vendor.8db33f7a42e23b60e32a.js
+/Vue-Phone-QandA/static/js/app.320ee88a2485b20d6f6d.js
+/Vue-Phone-QandA/static/js/manifest.a45dfc0de0674a6156e6.js
+/Vue-Phone-QandA/static/css/app.67819344d45ec30957f715bdca0c5bfe.css
 
 NETWORK:
 *

@@ -1,40 +1,40 @@
 var __wpo = {
   "assets": {
     "main": [
-      "/Vue-QandA/static/img/4-1.jpg",
-      "/Vue-QandA/static/img/4-2.png",
-      "/Vue-QandA/static/img/1-2.png",
-      "/Vue-QandA/static/img/1-1.jpg",
-      "/Vue-QandA/static/img/joker.jpg",
-      "/Vue-QandA/static/js/0.478d3d5348b22cde944d.js",
-      "/Vue-QandA/static/js/1.151ee8ac2a7c1c58e432.js",
-      "/Vue-QandA/static/js/2.4bc0f80c8c2842610e24.js",
-      "/Vue-QandA/static/js/vendor.635579bb0131c7429c27.js",
-      "/Vue-QandA/static/js/app.320ee88a2485b20d6f6d.js",
-      "/Vue-QandA/static/js/manifest.2e6291573b33c26ab935.js",
-      "/Vue-QandA/static/css/app.09a16095ff96c3e9c436638f8c505fa8.css"
+      "/Vue-Phone-QandA/static/img/4-1.jpg",
+      "/Vue-Phone-QandA/static/img/4-2.png",
+      "/Vue-Phone-QandA/static/img/1-2.png",
+      "/Vue-Phone-QandA/static/img/1-1.jpg",
+      "/Vue-Phone-QandA/static/img/joker.jpg",
+      "/Vue-Phone-QandA/static/js/0.478d3d5348b22cde944d.js",
+      "/Vue-Phone-QandA/static/js/1.151ee8ac2a7c1c58e432.js",
+      "/Vue-Phone-QandA/static/js/2.4bc0f80c8c2842610e24.js",
+      "/Vue-Phone-QandA/static/js/vendor.8db33f7a42e23b60e32a.js",
+      "/Vue-Phone-QandA/static/js/app.320ee88a2485b20d6f6d.js",
+      "/Vue-Phone-QandA/static/js/manifest.a45dfc0de0674a6156e6.js",
+      "/Vue-Phone-QandA/static/css/app.67819344d45ec30957f715bdca0c5bfe.css"
     ],
     "additional": [],
     "optional": []
   },
   "externals": [],
   "hashesMap": {
-    "82e6700ec6923926c21022c2bc25604646a5ff76": "/Vue-QandA/static/img/4-1.jpg",
-    "18121c60d57f9aa2c871f69c440c9b16041f4d2e": "/Vue-QandA/static/img/4-2.png",
-    "df7932d00a75687c3dd55a316219c718ffe87e25": "/Vue-QandA/static/img/1-2.png",
-    "f89f2457f39c3dd6e271b37a55f2328927bef0d9": "/Vue-QandA/static/img/1-1.jpg",
-    "d7602d88fc6c18c201bd4fb8af0602b8118aabb3": "/Vue-QandA/static/img/joker.jpg",
-    "836189682344ab3588e2233fd7f6a0b8cd656bae": "/Vue-QandA/static/js/0.478d3d5348b22cde944d.js",
-    "32767eb7e090a4499b8b5d60b3411205bd3cb438": "/Vue-QandA/static/js/1.151ee8ac2a7c1c58e432.js",
-    "7f5461ea9530654497dd6b57467be7ad40d7a990": "/Vue-QandA/static/js/2.4bc0f80c8c2842610e24.js",
-    "277c390f1ea724322dfad8f976dd39ce5e83cb44": "/Vue-QandA/static/js/vendor.635579bb0131c7429c27.js",
-    "7ebe245ff81eb732c6fa7920d43c61d6c2b4dbaf": "/Vue-QandA/static/js/app.320ee88a2485b20d6f6d.js",
-    "926b1cbcb745b299b258f9a2d82a7d6dc782e9b1": "/Vue-QandA/static/js/manifest.2e6291573b33c26ab935.js",
-    "886f075179606e7ffb439e7e4e7fef2822ed3929": "/Vue-QandA/static/css/app.09a16095ff96c3e9c436638f8c505fa8.css"
+    "82e6700ec6923926c21022c2bc25604646a5ff76": "/Vue-Phone-QandA/static/img/4-1.jpg",
+    "18121c60d57f9aa2c871f69c440c9b16041f4d2e": "/Vue-Phone-QandA/static/img/4-2.png",
+    "df7932d00a75687c3dd55a316219c718ffe87e25": "/Vue-Phone-QandA/static/img/1-2.png",
+    "f89f2457f39c3dd6e271b37a55f2328927bef0d9": "/Vue-Phone-QandA/static/img/1-1.jpg",
+    "d7602d88fc6c18c201bd4fb8af0602b8118aabb3": "/Vue-Phone-QandA/static/img/joker.jpg",
+    "836189682344ab3588e2233fd7f6a0b8cd656bae": "/Vue-Phone-QandA/static/js/0.478d3d5348b22cde944d.js",
+    "32767eb7e090a4499b8b5d60b3411205bd3cb438": "/Vue-Phone-QandA/static/js/1.151ee8ac2a7c1c58e432.js",
+    "7f5461ea9530654497dd6b57467be7ad40d7a990": "/Vue-Phone-QandA/static/js/2.4bc0f80c8c2842610e24.js",
+    "bbed2496b89ab16ed9a7af8e37b00ac7d958e0a3": "/Vue-Phone-QandA/static/js/vendor.8db33f7a42e23b60e32a.js",
+    "7ebe245ff81eb732c6fa7920d43c61d6c2b4dbaf": "/Vue-Phone-QandA/static/js/app.320ee88a2485b20d6f6d.js",
+    "061901a8426f6adeab2e1805209fe83e15cdce3a": "/Vue-Phone-QandA/static/js/manifest.a45dfc0de0674a6156e6.js",
+    "54b6bbf9578f93217a0b6aa6049fd80140507f9a": "/Vue-Phone-QandA/static/css/app.67819344d45ec30957f715bdca0c5bfe.css"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "2017-12-21 09:03:18",
+  "version": "2017-12-28 09:26:52",
   "name": "webpack-offline",
   "pluginVersion": "4.8.5",
   "relativePaths": false
@@ -99,7 +99,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/Vue-QandA/";
+/******/ 	__webpack_require__.p = "/Vue-Phone-QandA/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = "rEv2");
